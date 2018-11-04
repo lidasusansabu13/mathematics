@@ -20,4 +20,4 @@ to use in your project or program (python) you have to import this specific libr
 ```
 import numpy
 ```
-I'll try at first using the default functions and slowly will try to implement them by root level. with custom written functions
+I'll try at first using the default functions and slowly will try to implement them by root level. with custom written functions.
